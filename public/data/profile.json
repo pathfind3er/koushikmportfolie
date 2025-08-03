@@ -1,0 +1,57 @@
+{
+    "name": "Koushik M",
+
+    "profilePictureUrl": "images/pictures/profile-picture.jpg",
+    "resumePdfUrl": "",
+
+    "statusCircleVisible": true,
+    "statusCircleVariant": "available",
+    "statusCircleHoverMessage": "status_message_available_for_freelance",
+
+    "locales": {
+        "en": {
+            "localized_name": "Koushik M",
+            "localized_name_stylized": " [[Koushik {{M}}]]",
+            "status_message_available_for_freelance": "Available for freelance!",
+            "roles": [
+                "Backend Developer",
+                "Frontend Developer",
+                "cyber security enthusiast",
+                "Stocks & Crupto enthusiast"
+            ],
+            "name_pronunciation_ipa": "/Koushik M/",
+            "name_pronunciation_audio_url": "audio/english-name-pronunciation.mp3"
+        },
+        "es": {
+            "status_message_available_for_freelance": "¡Disponible para freelance!",
+            "roles": [
+                "Backend Developer",
+                "Frontend Developer",
+                "cyber security enthusiast",
+                "Stocks & Crupto enthusiast"
+            ]
+        },
+        "fr": {
+            "status_message_available_for_freelance": "Disponible pour freelance !",
+            "roles": [
+                "Backend Developer",
+                "Frontend Developer",
+                "cyber security enthusiast",
+                "Stocks & Crupto enthusiast"
+            ]
+        },
+        "ko": {
+            "localized_name": "최민석",
+            "localized_name_stylized": "{{최}}민석",
+            "status_message_available_for_freelance": "프리랜스 가능합니다!",
+            "roles": [
+                "백엔드 개발자",
+                "프론트엔드 개발자",
+                "데브옵스 엔지니어",
+                "UX 디자이너"
+            ],
+            "name_pronunciation_ipa": "/chwe min-seok/",
+            "name_pronunciation_audio_url": "audio/korean-name-pronunciation.mp3"
+        }
+    }
+}
